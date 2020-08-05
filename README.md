@@ -2,7 +2,11 @@
 
 I saw this [post](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716), love, copy / paste and change some little things to use in my personal projects!
 
+
+
 `See how a minor change to your commit message style can make you a better programmer.`
+
+
 
 Format: `<type>(optional <scope>): <description>`
 
@@ -38,6 +42,8 @@ Scope description examples:
 - `forms`: (all forms was impacted)
 - `dashboard`: (only dashboard was impacted)
 - `resquests`: (the requests was impacted)
+
+
 
 References:
 
