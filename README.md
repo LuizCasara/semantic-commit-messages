@@ -2,9 +2,11 @@
 
 I saw this [post](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716), love, copy / paste and change some little things to use in my personal projects!
 
-> `"See how a minor change to your commit message style can make you a better programmer."`
+`"See how a minor change to your commit message style can make you a better programmer."`
 
-Format: `<type>(optional <scope>): <description>`
+## Format
+
+Format: `<type>(<scope>optional): <description>`
 
 `<type>` type of the commit
 `<scope>` impacted scope
@@ -29,6 +31,7 @@ Types description:
 - `fix`: (bug fix)
 - `refactor`: (refactoring production code. renaming a variable)
 - `chore`: (updating grunt tasks etc; no production code change)
+- `env`: (updating config files)
 - `style`: (formatting, missing semi colons, etc; no production code change)
 - `docs`: (changes to the documentation)
 - `test`: (adding missing tests, refactoring tests; no production code change)
@@ -46,3 +49,4 @@ References:
 - https://www.conventionalcommits.org/
 - https://seesparkbox.com/foundry/semantic_commit_messages
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
+- https://blog.cubos.io/que-tal-comecar-a-usar-commits-semanticos/
